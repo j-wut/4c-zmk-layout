@@ -2,7 +2,7 @@ file_format: "1"
 id: 4c
 name: 4c
 type: shield
-url: https://github.com/compressionKeboards/
+url: https://github.com/compressionKeyboards/
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
