@@ -1,4 +1,4 @@
-if SHIELD_4C_RIGHT
+if SHIELD_4C_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "compression 4c"
