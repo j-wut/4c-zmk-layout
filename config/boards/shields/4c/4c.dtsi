@@ -42,7 +42,7 @@ kscan0: kscan {
 compression_4c_layout: compression_4c_layout {
         compatible = "zmk,physical-layout";
         display-name = "Compression 4c";
-	transform = <&default_transform>
+	transform = <&default_transform>;
 
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100    0   50       0     0     0>
