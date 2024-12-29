@@ -11,8 +11,6 @@ config ZMK_USB
 
 endif
 
-if SHIELD_4C_RIGHT || SHIELD_4C_LEFT
-
 config ZMK_SPLIT
     default y
 
@@ -22,4 +20,3 @@ config ZMK_IDLE_TIMEOUT
 config ZMK_IDLE_SLEEP_TIMEOUT
     default 1800000
 
-endif
